@@ -1,3 +1,4 @@
+// Pixelonia Problem
 #include <stdio.h>
 #define S 100
 void test(int arr[S][4], int n){
