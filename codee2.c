@@ -1,4 +1,4 @@
-// Buzz and Nector problem
+// Buzz and Nectar problem
 #include <stdio.h>
 #include <math.h>
 void hour(int arr[], int n, int t){
